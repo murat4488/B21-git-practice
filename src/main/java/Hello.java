@@ -6,5 +6,6 @@ public class Hello {
         //Watching more movie
         //ready to go back
         //movie2 on the phone 10 minutes
+        //movie2 on the phone 20 minutes
     }
 }
